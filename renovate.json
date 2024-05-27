@@ -1,5 +1,6 @@
 {
   "extends": [
     "github>aquaproj/aqua-renovate-config#2.3.0",
+    ":disableDependencyDashboard"
   ]
 }
