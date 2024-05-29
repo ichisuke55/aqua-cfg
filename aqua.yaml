@@ -21,7 +21,7 @@ packages:
 - name: gohugoio/hugo@v0.126.1
 - name: bufbuild/buf@v1.32.2
 - name: rhysd/actionlint@v1.7.1
-- name: cli/cli@v2.49.2
+- name: cli/cli@v2.50.0
 - name: go-delve/delve@v1.22.1
 - name: yannh/kubeconform@v0.6.6
 - name: jqlang/jq@jq-1.7.1
