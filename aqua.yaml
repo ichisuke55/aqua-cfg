@@ -19,7 +19,7 @@ packages:
 - name: golang.org/x/tools/gopls@gopls/v0.15.3
 - name: kyoh86/richgo@v0.3.12
 - name: gohugoio/hugo@v0.126.1
-- name: bufbuild/buf@v1.32.1
+- name: bufbuild/buf@v1.32.2
 - name: rhysd/actionlint@v1.7.1
 - name: cli/cli@v2.49.2
 - name: go-delve/delve@v1.22.1
