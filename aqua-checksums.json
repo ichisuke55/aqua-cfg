@@ -61,6 +61,26 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/bufbuild/protoc-gen-validate/v1.0.2/protoc-gen-validate_1.0.2_darwin_amd64.tar.gz",
+      "checksum": "08F3DA460C2C10E964816D1A70E55CB4BE1A2D07B5C11A4D6D010C5F3AF742D4",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/bufbuild/protoc-gen-validate/v1.0.2/protoc-gen-validate_1.0.2_darwin_arm64.tar.gz",
+      "checksum": "0ADA1961180B014DBA5889030D5FB5468C3A1F89743DC6CDF53446E7ABDB5435",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/bufbuild/protoc-gen-validate/v1.0.2/protoc-gen-validate_1.0.2_linux_amd64.tar.gz",
+      "checksum": "5D5311E81F7929B7A7F8ED6363C85F83A25B770EE00F3BD4502498B91E6D3B71",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/bufbuild/protoc-gen-validate/v1.0.2/protoc-gen-validate_1.0.2_linux_arm64.tar.gz",
+      "checksum": "90F52C1E18670BEF037627DF109BB20E24D6B62EC54C831504F0743D02E2FAC2",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/cli/cli/v2.49.2/gh_2.49.2_linux_amd64.tar.gz",
       "checksum": "D84B514B64B802C703009453C935068384162253D1288D947F9488B98FB00FBC",
       "algorithm": "sha256"
@@ -421,6 +441,56 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/stern/stern/v1.30.0/stern_1.30.0_darwin_amd64.tar.gz",
+      "checksum": "4EAF8F0D60924902A3DDA1AAEBB573A376137BB830F45703D7A0BD89E884494A",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/stern/stern/v1.30.0/stern_1.30.0_darwin_arm64.tar.gz",
+      "checksum": "1C67965AAA9530EDA6A25CA9B92C1D0B454471EB0DCC7844A28617694C442EAF",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/stern/stern/v1.30.0/stern_1.30.0_linux_amd64.tar.gz",
+      "checksum": "EA1BF1F1DDDF1FD4B9971148582E88C637884AC1592DCBA71838A6A42277708B",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/stern/stern/v1.30.0/stern_1.30.0_linux_arm64.tar.gz",
+      "checksum": "91B641648B4DCF6AD578733A91327F7AB2AF9638CDACD9C091DD59E2992BE1F0",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/stern/stern/v1.30.0/stern_1.30.0_windows_amd64.tar.gz",
+      "checksum": "49D14A33DDD7B6986B396F7535F9061CBFBEB64676391DD83A6748C06EEAF214",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/stern/stern/v1.30.0/stern_1.30.0_windows_arm64.tar.gz",
+      "checksum": "C846C5F59C3D8CC78003275F7F1370CD4E845A047E267CA279F8908E3A191E47",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/swaggo/swag/v1.16.3/swag_1.16.3_Darwin_arm64.tar.gz",
+      "checksum": "D0FAC90453FEDCEFE04CC27882A331B18307FF43169EACCB5F3C87B6F03BE638",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/swaggo/swag/v1.16.3/swag_1.16.3_Darwin_x86_64.tar.gz",
+      "checksum": "A9A9FEBC10126AF7E2FE1B16B5625F68CE8CAEADC43CA993A5BDF2D5EE1F9AB5",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/swaggo/swag/v1.16.3/swag_1.16.3_Linux_amd64.tar.gz",
+      "checksum": "F46B6FB03FEEAC991622C681FDE6EB6D306BAEF0C2787CF07EAA894B0AFCE06F",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/swaggo/swag/v1.16.3/swag_1.16.3_Linux_arm64.tar.gz",
+      "checksum": "67DE8517E76A754C7EC55960FD241BDC74BC1E1C7D363FB5BC108DA706F6617C",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/yannh/kubeconform/v0.6.6/kubeconform-darwin-amd64.tar.gz",
       "checksum": "D2F8B605750857D4230A2EE3401134CF13185B50CB361A51E444C2774C39AC44",
       "algorithm": "sha256"
@@ -448,6 +518,21 @@
     {
       "id": "github_release/github.com/yannh/kubeconform/v0.6.6/kubeconform-windows-arm64.zip",
       "checksum": "C5DBA05D24219F1EA392EDACD092357FD4131A6692327EB4B1FA0D4A1B69F32B",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/awscli.amazonaws.com/AWSCLIV2-2.16.2.pkg",
+      "checksum": "B4C7618BA132C809EDBAC19BEB369E7FF3F0E56B60DE12D2EBD91064ECF17951",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/awscli.amazonaws.com/awscli-exe-linux-aarch64-2.16.2.zip",
+      "checksum": "888D4D0414CB67B0A2DD028BA58CDBEE29C4DA40775DD193C7586AA1EA641C82",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.16.2.zip",
+      "checksum": "03768D03F7563D47812F1DB12DC33C147E9ECD253445F72624EE61B2A05880E4",
       "algorithm": "sha256"
     },
     {
