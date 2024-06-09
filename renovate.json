@@ -2,7 +2,9 @@
   "packageRules": [
     {
       "matchPackagePatterns": ["*"],
-      "automerge": true
+      "automerge": true,
+      "automergeType": "pr",
+      "requiredStatusChecks": null
     }
   ],
   "extends": [
