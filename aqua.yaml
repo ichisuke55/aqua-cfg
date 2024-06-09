@@ -15,7 +15,7 @@ checksum:
 packages:
 - name: golang/tools/goimports@v0.22.0
 - name: golang/mock@v1.6.0
-- name: golangci/golangci-lint@v1.59.0
+- name: golangci/golangci-lint@v1.59.1
 - name: golang.org/x/tools/gopls@v0.15.3
 - name: kyoh86/richgo@v0.3.12
 - name: gohugoio/hugo@v0.127.0
