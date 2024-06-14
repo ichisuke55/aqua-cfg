@@ -31,4 +31,4 @@ packages:
 - name: google/wire@v0.6.0
 - name: bufbuild/protoc-gen-validate@v1.0.4
 - name: stern/stern@v1.30.0
-- name: aws/aws-cli@2.16.8
+- name: aws/aws-cli@2.16.9
