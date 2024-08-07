@@ -24,7 +24,7 @@ packages:
 - name: yannh/kubeconform@v0.6.6
 - name: jqlang/jq@jq-1.7.1
 - name: mikefarah/yq@v4.44.2
-- name: go-task/task@v3.37.2
+- name: go-task/task@v3.38.0
 - name: swaggo/swag@v1.16.3
 - name: google/wire@v0.6.0
 - name: stern/stern@v1.30.0
