@@ -796,6 +796,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/nektos/act/v0.2.66/act_Darwin_arm64.tar.gz",
+      "checksum": "E8798D6412AD3ADF30B4395140E1B353F812F22C1E9B07F975CA1E81F6CD9BF0",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.66/act_Darwin_x86_64.tar.gz",
+      "checksum": "8A7E617E06558E19924DB931EFFAA09D46922CFB14D4B515D82A40AA5DB8FFAF",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.66/act_Linux_arm64.tar.gz",
+      "checksum": "83EAC0C36A87037F7FA59DA6DA7B5332A4091FE3B76EE34CAC628297B47A13B2",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.66/act_Linux_x86_64.tar.gz",
+      "checksum": "4A8D71C4CEA4E6721E10C15812A728BDCE7D28CE2913183D8CE7F02D5ECD27A2",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.66/act_Windows_arm64.zip",
+      "checksum": "204DA46EEF5AC1557BDB534B72E264457ACC3223CCE6F55EA5A9089BE4838855",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.66/act_Windows_x86_64.zip",
+      "checksum": "34A3BD1D4EBEF712733B43D353B7697E4D3FE3DAD5D179F007FAE62EC787F8F5",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/rhysd/actionlint/v1.7.0/actionlint_1.7.0_darwin_amd64.tar.gz",
       "checksum": "138AFF674F31BD218030D4B00B3024BF0C721B75A7EC8E90B743763F81E3128E",
       "algorithm": "sha256"
