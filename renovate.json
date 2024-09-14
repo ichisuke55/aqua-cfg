@@ -2,11 +2,14 @@
   "packageRules": [
     {
       "matchPackagePatterns": ["*"],
-      "automerge": true
+      "automerge": true,
+      "automergeType": "branch"
     }
   ],
   "extends": [
     "github>aquaproj/aqua-renovate-config#2.3.1",
-    ":disableDependencyDashboard"
+    ":disableDependencyDashboard",
+    ":timezone(Asia/Tokyo)",
+    ":automergePatch"
   ]
 }
