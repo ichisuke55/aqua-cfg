@@ -401,6 +401,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/go-task/task/v3.39.0/task_darwin_amd64.tar.gz",
+      "checksum": "226D741FE52D750A41EEE838E49F2BD3B97F5E7F17CB327EF133854F2AEEF02C",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.39.0/task_darwin_arm64.tar.gz",
+      "checksum": "68B944BE94A8344589C5DC73112A8680AF3D6FF61FD37351B78601A4EECCD1E1",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.39.0/task_linux_amd64.tar.gz",
+      "checksum": "5BE311826DAF2639023BD1998D835D519C778357885DF0F8115142EC519AF174",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.39.0/task_linux_arm64.tar.gz",
+      "checksum": "18BE93736CB2CA3C38D3F9A145BD1BBF63DA1D739313C6298D1361454F1F98F1",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.39.0/task_windows_amd64.zip",
+      "checksum": "40DAAD21C17D8FB7C90FCF99F787F2DB5C08AE4AEAF0BE1C0177FD77FC3296A1",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.39.0/task_windows_arm64.zip",
+      "checksum": "4B9FE7B65F5981B469F9240036C294BC56C3CC0D467D670EDEF4C1EC0204C11C",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/gohugoio/hugo/v0.126.1/hugo_0.126.1_darwin-universal.tar.gz",
       "checksum": "98070806663830987C298DD808361AF31672D581F20D9D3C26F650EB88D27D6A",
       "algorithm": "sha256"
@@ -1083,6 +1113,11 @@
     {
       "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.217.0/registry.yaml",
       "checksum": "9442B0D40A00F119D5B9FC9CC37E4A487CF6628D223E8E1F39BB28CDDA471F8E3E431DC40F0C2B80C4AEF9AC3EBBE343F78FCDF304A18F2D65E56AD989FE1D38",
+      "algorithm": "sha512"
+    },
+    {
+      "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.220.1/registry.yaml",
+      "checksum": "E52926392614425EFC6D74D06B885F918A401FC2E44500FFD0A0D19758BCCE0EFBC0A4F7760058ACD1007B69D2239C9834A4151CCC963DE2E65D6D267A0E0906",
       "algorithm": "sha512"
     }
   ]
