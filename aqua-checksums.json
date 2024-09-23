@@ -151,6 +151,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/bufbuild/buf/v1.42.0/buf-Darwin-arm64.tar.gz",
+      "checksum": "6026D546157D661CD0D36C593DE11D39980B00D9060565BDE75CB4A7A4A198B2",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/bufbuild/buf/v1.42.0/buf-Darwin-x86_64.tar.gz",
+      "checksum": "FBD1E7E289BAECABA486F7E8A5C27F9507E5E2946A0C58DB5EA814D5F2B38BD0",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/bufbuild/buf/v1.42.0/buf-Linux-aarch64.tar.gz",
+      "checksum": "CE56C5BC20BD74B572289A4D8F82732ED7098961FDF5A82242B9C90C30E9DB60",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/bufbuild/buf/v1.42.0/buf-Linux-x86_64.tar.gz",
+      "checksum": "412C8BDC2A4361F796DF59735EB8B8F1CB85F7BFA91F443E471BF0B090D7C6C2",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/bufbuild/buf/v1.42.0/buf-Windows-arm64.exe",
+      "checksum": "0F7EE5EAA018F9BE9B8FF23EC613AC21996F2862C8CD9C1F90098F55DCCBE5DF",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/bufbuild/buf/v1.42.0/buf-Windows-x86_64.exe",
+      "checksum": "1E0C42FB2533048EE5FB04C5F9822F25D5E34B3014A392F316441F2D0046A117",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/bufbuild/protoc-gen-validate/v1.0.2/protoc-gen-validate_1.0.2_darwin_amd64.tar.gz",
       "checksum": "08F3DA460C2C10E964816D1A70E55CB4BE1A2D07B5C11A4D6D010C5F3AF742D4",
       "algorithm": "sha256"
@@ -696,6 +726,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/golangci/golangci-lint/v1.61.0/golangci-lint-1.61.0-darwin-amd64.tar.gz",
+      "checksum": "5C280EF3284F80C54FD90D73DC39CA276953949DA1DB03EB9DD0FBF868CC6E55",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/golangci/golangci-lint/v1.61.0/golangci-lint-1.61.0-darwin-arm64.tar.gz",
+      "checksum": "544334890701E4E04A6E574BC010BEA8945205C08C44CCED73745A6378012D36",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/golangci/golangci-lint/v1.61.0/golangci-lint-1.61.0-linux-amd64.tar.gz",
+      "checksum": "77CB0AF99379D9A21D5DC8C38364D060E864A01BD2F3E30B5E8CC550C3A54111",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/golangci/golangci-lint/v1.61.0/golangci-lint-1.61.0-linux-arm64.tar.gz",
+      "checksum": "AF60AC05566D9351615CB31B4CC070185C25BF8CBD9B09C1873AA5EC6F3CC17E",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/golangci/golangci-lint/v1.61.0/golangci-lint-1.61.0-windows-amd64.zip",
+      "checksum": "E7BC2A81929A50F830244D6D2E657CCE4F19A59AFF49FA9000176FF34FDA64CE",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/golangci/golangci-lint/v1.61.0/golangci-lint-1.61.0-windows-arm64.zip",
+      "checksum": "ED97C221596DD771E3DD9344872C140340BEE2E819CD7A90AFA1DE752F1F2E0F",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/jqlang/jq/jq-1.7.1/jq-linux-amd64",
       "checksum": "5942C9B0934E510EE61EB3E30273F1B3FE2590DF93933A93D7C58B81D19C8FF5",
       "algorithm": "sha256"
@@ -1046,6 +1106,11 @@
       "algorithm": "sha256"
     },
     {
+      "id": "http/awscli.amazonaws.com/AWSCLIV2-2.17.56.pkg",
+      "checksum": "AFD954F8F34EFF354631F86713F66B038B6FB0855FFB11907D233B33F0A49B87",
+      "algorithm": "sha256"
+    },
+    {
       "id": "http/awscli.amazonaws.com/awscli-exe-linux-aarch64-2.16.2.zip",
       "checksum": "888D4D0414CB67B0A2DD028BA58CDBEE29C4DA40775DD193C7586AA1EA641C82",
       "algorithm": "sha256"
@@ -1066,6 +1131,11 @@
       "algorithm": "sha256"
     },
     {
+      "id": "http/awscli.amazonaws.com/awscli-exe-linux-aarch64-2.17.56.zip",
+      "checksum": "C3D9992D89DD667B7CB38C1C2123C47D115CFF1FB8C9148CDDB0C5CF53BE4F00",
+      "algorithm": "sha256"
+    },
+    {
       "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.16.2.zip",
       "checksum": "03768D03F7563D47812F1DB12DC33C147E9ECD253445F72624EE61B2A05880E4",
       "algorithm": "sha256"
@@ -1083,6 +1153,11 @@
     {
       "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.17.4.zip",
       "checksum": "CD42718820CDFC3E6B884A1F8EB7C14D37C7643B8D74613BC62F7892986DE591",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.17.56.zip",
+      "checksum": "153CFBBCCE6826657C746D23FEA38439D474EF00FBEBE7F8D7B45FF578DE66FF",
       "algorithm": "sha256"
     },
     {
@@ -1118,6 +1193,11 @@
     {
       "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.220.1/registry.yaml",
       "checksum": "E52926392614425EFC6D74D06B885F918A401FC2E44500FFD0A0D19758BCCE0EFBC0A4F7760058ACD1007B69D2239C9834A4151CCC963DE2E65D6D267A0E0906",
+      "algorithm": "sha512"
+    },
+    {
+      "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.223.1/registry.yaml",
+      "checksum": "7E7053B97D5F721773C9FA87AEDBD57942F4881F679D8F1723C0F23C372854FFF143662A113C4D4C1FC3E2546B29AF7952AA50CE571F49806A589615F1BAB75C",
       "algorithm": "sha512"
     }
   ]
