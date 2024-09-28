@@ -351,6 +351,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/cli/cli/v2.57.0/gh_2.57.0_linux_amd64.tar.gz",
+      "checksum": "D6B3621AA0CA383866716FC664D827A21BD1AC4A918A10C047121D8031892BF8",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/cli/cli/v2.57.0/gh_2.57.0_linux_arm64.tar.gz",
+      "checksum": "A85069B7469846EE4AFB5CA758AA1D8D3F801039598D521737B0CAA407EEEA36",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/cli/cli/v2.57.0/gh_2.57.0_macOS_amd64.zip",
+      "checksum": "7FC0310BAA48B0DE034FFB632022F4633547D4BEBF3CE7B42EA3E77DA22CA390",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/cli/cli/v2.57.0/gh_2.57.0_macOS_arm64.zip",
+      "checksum": "58F90D614F557B81FF4EE09A747AB68D13793A2F306D4E0102AD8BEB9AE490FB",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/cli/cli/v2.57.0/gh_2.57.0_windows_amd64.zip",
+      "checksum": "54BDA7BC0EA27FEB495A0F465493D9422BE9E145AABEB72AB11D65D93C1CEBA6",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/cli/cli/v2.57.0/gh_2.57.0_windows_arm64.zip",
+      "checksum": "7C16069D838ECA957A4252BA5BBFC7C0EEEBB06DD4D99CFB967301D7A197E1B2",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/fullstorydev/grpcurl/v1.9.1/grpcurl_1.9.1_linux_arm64.tar.gz",
       "checksum": "FC0D0453DD9F276FA2158F34BA1666F7FD4D6E4053F781D0945226EBE8914CB1",
       "algorithm": "sha256"
@@ -608,6 +638,31 @@
     {
       "id": "github_release/github.com/gohugoio/hugo/v0.133.0/hugo_0.133.0_windows-arm64.zip",
       "checksum": "8E6D10AE78A01ECC0F551A92E7E1A0EC1C7A026E705BB0BD7F7617457579F2CD",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gohugoio/hugo/v0.135.0/hugo_0.135.0_darwin-universal.tar.gz",
+      "checksum": "4D8EE1B8E0B47972017570F724B69210A85C3BD3D33DF46FACE487D24389BAAB",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gohugoio/hugo/v0.135.0/hugo_0.135.0_linux-amd64.tar.gz",
+      "checksum": "BA6ADCCA5BB8EA899F712BFA5734C91602ED17EAE31917919CA40547853B1394",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gohugoio/hugo/v0.135.0/hugo_0.135.0_linux-arm64.tar.gz",
+      "checksum": "5E627E826E81CE56B400D29C65EDA38D1969E36B48A26BDC9234501BF6BDF902",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gohugoio/hugo/v0.135.0/hugo_0.135.0_windows-amd64.zip",
+      "checksum": "5321EDAB26BCA3913FCECE0C614F9EA4DED187155B055C1FF00C5C88C7ACD971",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gohugoio/hugo/v0.135.0/hugo_0.135.0_windows-arm64.zip",
+      "checksum": "8F50A7506BBD89E951D20D8B5759A8BE43290CB5B8147E5011D0E375FBC306ED",
       "algorithm": "sha256"
     },
     {
@@ -913,6 +968,36 @@
     {
       "id": "github_release/github.com/nektos/act/v0.2.66/act_Windows_x86_64.zip",
       "checksum": "34A3BD1D4EBEF712733B43D353B7697E4D3FE3DAD5D179F007FAE62EC787F8F5",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.67/act_Darwin_arm64.tar.gz",
+      "checksum": "EFC2CE934C639BDE99754975DD74614CA9F10443C00322F0ADDA72F4572071C2",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.67/act_Darwin_x86_64.tar.gz",
+      "checksum": "D1E4EA72BD4A731ADE7432409EBAF7687A366B2491138979F51E71CD96B88327",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.67/act_Linux_arm64.tar.gz",
+      "checksum": "CA1B1203179EBC0A4D8C662B915A0E3F446F929FECAACF5C3184784710B8C8CC",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.67/act_Linux_x86_64.tar.gz",
+      "checksum": "0928FFAFF386C175934669E2CCA8DFC1F5F05A655C33FC3AB462BAFCBBBA25B7",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.67/act_Windows_arm64.zip",
+      "checksum": "F30EDB038E89E9F307DEC7BD4CCE66F3FF2514F2BA2B9B1645C5A717E7A57BB1",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.67/act_Windows_x86_64.zip",
+      "checksum": "C1E6614E78D9A9520BE149B08F7C8F3C8A6190AF1CD47872340B152C73EE1D66",
       "algorithm": "sha256"
     },
     {
