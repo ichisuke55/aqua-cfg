@@ -1,15 +1,29 @@
 {
-  "packageRules": [
-    {
-      "matchPackagePatterns": ["*"],
-      "automerge": true,
-      "automergeType": "branch"
-    }
-  ],
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "github>aquaproj/aqua-renovate-config#2.3.1",
+    "config:base",
     ":disableDependencyDashboard",
+    ":semanticPrefixFixDepsChoreOthers",
+    ":ignoreModulesAndTests",
+    ":autodetectPinVersions",
+    ":prHourlyLimitNone",
+    "group:monorepos",
+    "group:recommended",
+    "workarounds:all",
+    ":semanticCommits",
+    ":separateMultipleMajorReleases",
+    ":semanticCommitTypeAll(fix)",
+    ":combinePatchMinorReleases",
+    ":ignoreUnstable",
+    ":prImmediately",
+    ":semanticCommits",
+    ":updateNotScheduled",
+    ":automergeAll",
+    ":maintainLockFilesDisabled",
     ":timezone(Asia/Tokyo)",
+    ":label(renovate)",
     ":automergePatch"
-  ]
+  ],
+  "prConcurrentLimit": 1
 }
