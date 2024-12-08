@@ -181,6 +181,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/bufbuild/buf/v1.47.2/buf-Darwin-arm64.tar.gz",
+      "checksum": "108C9A6F10167E1FCB753A9F353FC658D25A320B80E1EEAD8ED31594FBAE5DE1",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/bufbuild/buf/v1.47.2/buf-Darwin-x86_64.tar.gz",
+      "checksum": "08D1C72B23AE7F4324E0BDD0A700638235726CC312FC8320CD597BD616F69358",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/bufbuild/buf/v1.47.2/buf-Linux-aarch64.tar.gz",
+      "checksum": "E7188833039D4E7736DE517EBA6141B9306F4B60B00974392DAC7CE38627321E",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/bufbuild/buf/v1.47.2/buf-Linux-x86_64.tar.gz",
+      "checksum": "39716CFE0185DF3CBA21F66EC739620FFB6876C48B2DA4338A8C68C290C9B116",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/bufbuild/buf/v1.47.2/buf-Windows-arm64.exe",
+      "checksum": "64AE586B18218E9E963225B22A67BB9E3C4D834A459182F4542C903BE42946FE",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/bufbuild/buf/v1.47.2/buf-Windows-x86_64.exe",
+      "checksum": "42A1310377E7D0F0931AC9B5A073A531D9B843FE3045938C0D0ECC5D1F1AB93F",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/bufbuild/protoc-gen-validate/v1.0.2/protoc-gen-validate_1.0.2_darwin_amd64.tar.gz",
       "checksum": "08F3DA460C2C10E964816D1A70E55CB4BE1A2D07B5C11A4D6D010C5F3AF742D4",
       "algorithm": "sha256"
@@ -381,6 +411,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/cli/cli/v2.63.2/gh_2.63.2_linux_amd64.tar.gz",
+      "checksum": "912FDB1CA29CB005FB746FC5D2B787A289078923A29D0F9EC19A0B00272DED00",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/cli/cli/v2.63.2/gh_2.63.2_linux_arm64.tar.gz",
+      "checksum": "0F31E2A8549C64B5C1679F0B99CE5E0DAC7C91DA9E86F6246ADB8805B0F0B4BB",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/cli/cli/v2.63.2/gh_2.63.2_macOS_amd64.zip",
+      "checksum": "A5F80B98819D753449224288FD089405B19CABD128C1CBC92922FD6D44E5EE5B",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/cli/cli/v2.63.2/gh_2.63.2_macOS_arm64.zip",
+      "checksum": "0A53C536C8CC7D1C72C75FF836B018BB7F4351DD1C1C87711DA4ADF6B36824EE",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/cli/cli/v2.63.2/gh_2.63.2_windows_amd64.zip",
+      "checksum": "DA7EAEB29CD9251CC477402681EFC72AC2283CED94E63A69C1E3BC9ACA99EB9B",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/cli/cli/v2.63.2/gh_2.63.2_windows_arm64.zip",
+      "checksum": "77915D30806F0ACB859917D1295DB0744D1722173D3294E3269CC2E328B28F1A",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/fullstorydev/grpcurl/v1.9.1/grpcurl_1.9.1_linux_arm64.tar.gz",
       "checksum": "FC0D0453DD9F276FA2158F34BA1666F7FD4D6E4053F781D0945226EBE8914CB1",
       "algorithm": "sha256"
@@ -398,6 +458,26 @@
     {
       "id": "github_release/github.com/fullstorydev/grpcurl/v1.9.1/grpcurl_1.9.1_windows_x86_64.zip",
       "checksum": "898BCDED6677E296D057207B9246A29F92F5DCB0F46F10711771A5B27E0CF8C1",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/fullstorydev/grpcurl/v1.9.2/grpcurl_1.9.2_linux_arm64.tar.gz",
+      "checksum": "EBFF3D0D022AD1C2010A1749048A6DCCD7A41EDF87093E80C7F649FCBB8EB751",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/fullstorydev/grpcurl/v1.9.2/grpcurl_1.9.2_linux_x86_64.tar.gz",
+      "checksum": "1C7CAF2628D8607D8A3BBEE5CE7786BBA4879ABE566B075A4F129A97CCFA8465",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/fullstorydev/grpcurl/v1.9.2/grpcurl_1.9.2_osx_x86_64.tar.gz",
+      "checksum": "A8362532B4FDA02E685D9769BA7442CE6891CC20AA69F74DE4F83A7F7E8EAD74",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/fullstorydev/grpcurl/v1.9.2/grpcurl_1.9.2_windows_x86_64.zip",
+      "checksum": "14B3806253EEEE29AC7C467BA6B2C5D0FDC2B889833AF6E3603157354E0F5135",
       "algorithm": "sha256"
     },
     {
@@ -488,6 +568,66 @@
     {
       "id": "github_release/github.com/go-task/task/v3.39.0/task_windows_arm64.zip",
       "checksum": "4B9FE7B65F5981B469F9240036C294BC56C3CC0D467D670EDEF4C1EC0204C11C",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.39.2/task_darwin_amd64.tar.gz",
+      "checksum": "C8D5066FB68797BD321A9E4F830731F4F0284426EE1B458AC91EF1BD70E8C418",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.39.2/task_darwin_arm64.tar.gz",
+      "checksum": "A75FCDAEF9B6B3D8B502357A8DC7694B813D6C758ACA0865380F495FACB5F387",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.39.2/task_linux_amd64.tar.gz",
+      "checksum": "BA109E09E7235ED017E18A23775ED7F032CA436D8F913B2D40978B03E972F106",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.39.2/task_linux_arm64.tar.gz",
+      "checksum": "5C6E73B7656D2E26050E2601C4702CBF5B6314BA001797E5CA8149890E205049",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.39.2/task_windows_amd64.zip",
+      "checksum": "011D4561698EE7A7DF44EDA24702F51B08D00BAC0897940273173E05A8575D5B",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.39.2/task_windows_arm64.zip",
+      "checksum": "D4A4134EE67E74D165FDA73722C5FDE4291FCA037CF02BDA35DF2BAE372ECB98",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.40.1/task_darwin_amd64.tar.gz",
+      "checksum": "C3C55C44AEE675E30F3E16CDD6E4C17DED38BB5118800ACE321425E31C410A01",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.40.1/task_darwin_arm64.tar.gz",
+      "checksum": "B729EFFCFDD583424E30F58033CBF31A8FA629C1E50C8F90326A06D7EF525154",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.40.1/task_linux_amd64.tar.gz",
+      "checksum": "A35462EC71410CCCFC428072DE830E4478BC57A919D0131EF7897759270DFF8F",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.40.1/task_linux_arm64.tar.gz",
+      "checksum": "17F325293D08F6F964E0530842E9EF1410DD5F83EE6475B493087391032B0CFD",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.40.1/task_windows_amd64.zip",
+      "checksum": "B118157D029099D7837F9DE4CCC035855BCF0BD433C7A4E3B68425505EC84BC2",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/go-task/task/v3.40.1/task_windows_arm64.zip",
+      "checksum": "CA2033815E4D3FACFC59804B26B8D26800365692C7EA905CE8B71EEBC84BB3BC",
       "algorithm": "sha256"
     },
     {
@@ -666,6 +806,31 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/gohugoio/hugo/v0.139.3/hugo_0.139.3_darwin-universal.tar.gz",
+      "checksum": "71DC9B180CF876F681860C90AC61EC35DD867E5C090A3D2C35C41D3991A05617",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gohugoio/hugo/v0.139.3/hugo_0.139.3_linux-amd64.tar.gz",
+      "checksum": "FCF9265C4D72F713A07C73B7FCF32F4AA31A1D9CF13444E6D22AE1926D527652",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gohugoio/hugo/v0.139.3/hugo_0.139.3_linux-arm64.tar.gz",
+      "checksum": "34CCC9EBF98269894F1E0DD80C03B78C4EB8538612A02D57A7D2980FE5E4A572",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gohugoio/hugo/v0.139.3/hugo_0.139.3_windows-amd64.zip",
+      "checksum": "6F0313329619ED375AB266C3256E12348CBC9F8EE24E5D1C3E7CC5C56CDD225E",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gohugoio/hugo/v0.139.3/hugo_0.139.3_windows-arm64.zip",
+      "checksum": "14BBFD516DDB029B6D9DFFE00F2EFA99EC4FE1F3D456966B0C1D539F4240C42E",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/golang/mock/v1.6.0/mock_1.6.0_darwin_amd64.tar.gz",
       "checksum": "938649DB27055EC85BEDE32CCB95FF82F82AF3C90A084EE52687A92066BCCA92",
       "algorithm": "sha256"
@@ -811,6 +976,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/golangci/golangci-lint/v1.62.2/golangci-lint-1.62.2-darwin-amd64.tar.gz",
+      "checksum": "6C9FFD05896F0638D5C37152AC4AE337C2D301BA6C9DADF49C04E6D639F10F91",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/golangci/golangci-lint/v1.62.2/golangci-lint-1.62.2-darwin-arm64.tar.gz",
+      "checksum": "6C76F54467BA471F7BDCD5DF0F27C3FA3DBE530B771A10D384C3D8C7178F5E89",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/golangci/golangci-lint/v1.62.2/golangci-lint-1.62.2-linux-amd64.tar.gz",
+      "checksum": "5101292B7925A6A14B49C5C3D845C5021399698FFD2F41BCFAB8A111B5669939",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/golangci/golangci-lint/v1.62.2/golangci-lint-1.62.2-linux-arm64.tar.gz",
+      "checksum": "10B6F5BD8483BD9E85A82F6119ED08F95609F42B86DC344B5DC15703C74D5B85",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/golangci/golangci-lint/v1.62.2/golangci-lint-1.62.2-windows-amd64.zip",
+      "checksum": "C8830AA4A6AABBAE70CD336C18204D928DCD8253B98CA5891161CA295AE5E1FD",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/golangci/golangci-lint/v1.62.2/golangci-lint-1.62.2-windows-arm64.zip",
+      "checksum": "253F993A3131F41800069D2568BFEAE269135C48622C63F7500988271CF0EDB0",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/jqlang/jq/jq-1.7.1/jq-linux-amd64",
       "checksum": "5942C9B0934E510EE61EB3E30273F1B3FE2590DF93933A93D7C58B81D19C8FF5",
       "algorithm": "sha256"
@@ -941,6 +1136,31 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/mikefarah/yq/v4.44.6/yq_darwin_amd64",
+      "checksum": "71813C67F87766A532A072D9EF9C24DD5615F6B7D2E49B2A56CD26CF3DE021E1",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/mikefarah/yq/v4.44.6/yq_darwin_arm64",
+      "checksum": "164E10E5F7DF62990E4F3823205E7EA42BA5660523A428DF07C7386C0B62E3D9",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/mikefarah/yq/v4.44.6/yq_linux_amd64",
+      "checksum": "0C2B24E645B57D8E7C0566D18643A6D4F5580FEEEA3878127354A46F2A1E4598",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/mikefarah/yq/v4.44.6/yq_linux_arm64",
+      "checksum": "9477AC3CC447B6C083986129E35AF8122EB2B938FE55C9C3E40436FB966E5813",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/mikefarah/yq/v4.44.6/yq_windows_amd64.exe",
+      "checksum": "D9219F7EA2F0D9B72D8DC16C2A61EB2B30599DC19EE71C41C4F5691DBF3E7C9A",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/nektos/act/v0.2.66/act_Darwin_arm64.tar.gz",
       "checksum": "E8798D6412AD3ADF30B4395140E1B353F812F22C1E9B07F975CA1E81F6CD9BF0",
       "algorithm": "sha256"
@@ -998,6 +1218,36 @@
     {
       "id": "github_release/github.com/nektos/act/v0.2.67/act_Windows_x86_64.zip",
       "checksum": "C1E6614E78D9A9520BE149B08F7C8F3C8A6190AF1CD47872340B152C73EE1D66",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.70/act_Darwin_arm64.tar.gz",
+      "checksum": "BD77E25FAC1389161FB8D6A68D1F812821B785381065B1AB0D9A9944CFE62AD2",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.70/act_Darwin_x86_64.tar.gz",
+      "checksum": "C840C189B99C103A8A98E86E54D12E5411058B97949EA0CAD7FBBDBAA06E4D71",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.70/act_Linux_arm64.tar.gz",
+      "checksum": "C4F19CE98FC5B63B9E6ECF328FBA4741F14763AA469C9CB8EB88AA2F9E36130B",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.70/act_Linux_x86_64.tar.gz",
+      "checksum": "9AD9859C94E1951BDC051C8774010D21C29062B7EB86BB74ABABCF6BBC2E933E",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.70/act_Windows_arm64.zip",
+      "checksum": "E3AE1767A2897AD34EC6BBC402359065C769B8A19C2CDCCAD8D7E0C4F231ADF7",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.70/act_Windows_x86_64.zip",
+      "checksum": "803988D3054175DB57CB32A7FEDA6F2A820424F3D625D2D7E0F2039045F8C4C7",
       "algorithm": "sha256"
     },
     {
@@ -1061,6 +1311,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/rhysd/actionlint/v1.7.4/actionlint_1.7.4_darwin_amd64.tar.gz",
+      "checksum": "63A3BA90EE2325AFAD3FF2E64A4D80688C261E6C68BE8E6AB91214637BF936B8",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/rhysd/actionlint/v1.7.4/actionlint_1.7.4_darwin_arm64.tar.gz",
+      "checksum": "CBD193BB490F598D77E179261D7B76DFEBD049DDDEDE5803BA21CBF6A469AEEE",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/rhysd/actionlint/v1.7.4/actionlint_1.7.4_linux_amd64.tar.gz",
+      "checksum": "FC0A6886BBB9A23A39EEEC4B176193CADB54DDBE77CDBB19B637933919545395",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/rhysd/actionlint/v1.7.4/actionlint_1.7.4_linux_arm64.tar.gz",
+      "checksum": "EDE03682DC955381D057DDE95BB85CE9CA418122209A8A313B617D4ADEC56416",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/rhysd/actionlint/v1.7.4/actionlint_1.7.4_windows_amd64.zip",
+      "checksum": "CEF5EA561B9BE20CFF390301C4062C1D7B260AF2F9963C26B406E57AAF30E4D8",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/rhysd/actionlint/v1.7.4/actionlint_1.7.4_windows_arm64.zip",
+      "checksum": "205A2F99BE1CAA70CF0558561FAE47F099B5EF85CA57B00ABCE18C840452EAF3",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/stern/stern/v1.30.0/stern_1.30.0_darwin_amd64.tar.gz",
       "checksum": "4EAF8F0D60924902A3DDA1AAEBB573A376137BB830F45703D7A0BD89E884494A",
       "algorithm": "sha256"
@@ -1091,6 +1371,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/stern/stern/v1.31.0/stern_1.31.0_darwin_amd64.tar.gz",
+      "checksum": "50E2EEB34AC13DDEB8AE6E2231ECD4A6CEF09E769E874E3F370AE10384ECDA96",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/stern/stern/v1.31.0/stern_1.31.0_darwin_arm64.tar.gz",
+      "checksum": "54EF3B32E5CBBD7877E280A65AAD3E400C9B8E880CA3C130B9ACCF8BEB26ABD4",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/stern/stern/v1.31.0/stern_1.31.0_linux_amd64.tar.gz",
+      "checksum": "C156C50F3CA2AE12C43F56198CBADCE3C6334C020ECCB265562A3CE57A73B7E3",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/stern/stern/v1.31.0/stern_1.31.0_linux_arm64.tar.gz",
+      "checksum": "7246FC7B72AA86D8F62F75807385FB6A47983E4BE4205BD8D48E115A62F13274",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/stern/stern/v1.31.0/stern_1.31.0_windows_amd64.tar.gz",
+      "checksum": "633A3B60EA269A36742D483F15843851EA0D324B30202C816BE049BF183EAA1E",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/stern/stern/v1.31.0/stern_1.31.0_windows_arm64.tar.gz",
+      "checksum": "C89DCAFAF780B88B6FA9EFD89755C970F3717AA28D6BC63AAF32C9B35FEF3E56",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/swaggo/swag/v1.16.3/swag_1.16.3_Darwin_arm64.tar.gz",
       "checksum": "D0FAC90453FEDCEFE04CC27882A331B18307FF43169EACCB5F3C87B6F03BE638",
       "algorithm": "sha256"
@@ -1108,6 +1418,26 @@
     {
       "id": "github_release/github.com/swaggo/swag/v1.16.3/swag_1.16.3_Linux_arm64.tar.gz",
       "checksum": "67DE8517E76A754C7EC55960FD241BDC74BC1E1C7D363FB5BC108DA706F6617C",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/swaggo/swag/v1.16.4/swag_1.16.4_Darwin_arm64.tar.gz",
+      "checksum": "EEE60D2876AAD0433369C3B6B669E48D91B9A352F8CF8E423C44086686000810",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/swaggo/swag/v1.16.4/swag_1.16.4_Darwin_x86_64.tar.gz",
+      "checksum": "825A84F9E2941E55FA778A36BD068FD9CF7A7886D3D6CE0A3AC86A31979135DA",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/swaggo/swag/v1.16.4/swag_1.16.4_Linux_arm64.tar.gz",
+      "checksum": "8DFF034EE8A2091983EB8CD6708E7DB4A92C80008AAF695E340ED5BC57AFDC4D",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/swaggo/swag/v1.16.4/swag_1.16.4_Linux_x86_64.tar.gz",
+      "checksum": "CAB8B4291AAB05AFA97A9819FC27CA603083F3B8A03A83E96B9DA6B39C3D2EC4",
       "algorithm": "sha256"
     },
     {
@@ -1196,6 +1526,11 @@
       "algorithm": "sha256"
     },
     {
+      "id": "http/awscli.amazonaws.com/AWSCLIV2-2.22.12.pkg",
+      "checksum": "B25E87592BE9513A8D1F1556891D76B2E6CC6E6A1AB39EB00749CBC380004120",
+      "algorithm": "sha256"
+    },
+    {
       "id": "http/awscli.amazonaws.com/awscli-exe-linux-aarch64-2.16.2.zip",
       "checksum": "888D4D0414CB67B0A2DD028BA58CDBEE29C4DA40775DD193C7586AA1EA641C82",
       "algorithm": "sha256"
@@ -1221,6 +1556,11 @@
       "algorithm": "sha256"
     },
     {
+      "id": "http/awscli.amazonaws.com/awscli-exe-linux-aarch64-2.22.12.zip",
+      "checksum": "2864F818EC3492969076AD09BFAEB45E8C142FCFD69FEAD8171B54EC4ED150F4",
+      "algorithm": "sha256"
+    },
+    {
       "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.16.2.zip",
       "checksum": "03768D03F7563D47812F1DB12DC33C147E9ECD253445F72624EE61B2A05880E4",
       "algorithm": "sha256"
@@ -1243,6 +1583,11 @@
     {
       "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.17.56.zip",
       "checksum": "153CFBBCCE6826657C746D23FEA38439D474EF00FBEBE7F8D7B45FF578DE66FF",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.22.12.zip",
+      "checksum": "EE0F07EA419574C177A6D07A201BF89DC83EAC21BDDF486933A9973DE74B89B7",
       "algorithm": "sha256"
     },
     {
@@ -1283,6 +1628,11 @@
     {
       "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.223.1/registry.yaml",
       "checksum": "7E7053B97D5F721773C9FA87AEDBD57942F4881F679D8F1723C0F23C372854FFF143662A113C4D4C1FC3E2546B29AF7952AA50CE571F49806A589615F1BAB75C",
+      "algorithm": "sha512"
+    },
+    {
+      "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.269.0/registry.yaml",
+      "checksum": "B5FC38060F8713529F84C85C0BC93258B488CE0DBDC4B6F82B841C5DE4A711E539821C95D790E56E71D8689E23FFE793AC223C70BE40DB084AC3115C3D3F6684",
       "algorithm": "sha512"
     }
   ]
