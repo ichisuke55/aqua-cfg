@@ -16,7 +16,7 @@ packages:
 - name: golang/tools/goimports@v0.28.0
 - name: golangci/golangci-lint@v1.62.2
 - name: kyoh86/richgo@v0.3.12
-- name: gohugoio/hugo@v0.139.3
+- name: gohugoio/hugo@v0.139.5
 - name: bufbuild/buf@v1.47.2
 - name: rhysd/actionlint@v1.7.4
 - name: cli/cli@v2.63.2
