@@ -1251,6 +1251,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/nektos/act/v0.2.74/act_Darwin_arm64.tar.gz",
+      "checksum": "DDCA8C991230111C28A04CD786A92AF4ACF2EF2857CEA7811AF9C139912EACF5",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.74/act_Darwin_x86_64.tar.gz",
+      "checksum": "4556C66F5CC92DFF31200243D6BBFC3E7A5A7E01328CCA4E602F99C1BD0177E9",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.74/act_Linux_arm64.tar.gz",
+      "checksum": "34B5DF3CF8CDCF44019D1631A3B8904B3D2C15B62606AFD95D2B906B690EBFA0",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.74/act_Linux_x86_64.tar.gz",
+      "checksum": "7512B40671E073A011470E216EB2256D1B3AE37B5970D53DC23B29375FFB90F6",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.74/act_Windows_arm64.zip",
+      "checksum": "106B2542D270EE62C6D6524A598985D1EB610BAC077439A835207FB65645AE0D",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.74/act_Windows_x86_64.zip",
+      "checksum": "260C912C12B21305DD068E35529EC78FB5406D136E819C4E11B7B549552358B9",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/rhysd/actionlint/v1.7.0/actionlint_1.7.0_darwin_amd64.tar.gz",
       "checksum": "138AFF674F31BD218030D4B00B3024BF0C721B75A7EC8E90B743763F81E3128E",
       "algorithm": "sha256"
@@ -1311,7 +1341,6 @@
       "algorithm": "sha256"
     },
     {
-<<<<<<< HEAD
       "id": "github_release/github.com/rhysd/actionlint/v1.7.4/actionlint_1.7.4_darwin_amd64.tar.gz",
       "checksum": "63A3BA90EE2325AFAD3FF2E64A4D80688C261E6C68BE8E6AB91214637BF936B8",
       "algorithm": "sha256"
@@ -1339,6 +1368,36 @@
     {
       "id": "github_release/github.com/rhysd/actionlint/v1.7.4/actionlint_1.7.4_windows_arm64.zip",
       "checksum": "205A2F99BE1CAA70CF0558561FAE47F099B5EF85CA57B00ABCE18C840452EAF3",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/securego/gosec/v2.22.0/gosec_2.22.0_darwin_amd64.tar.gz",
+      "checksum": "F229AD44A7B82A006759773433B67785E295A0E453F9685DBD83FB0DA12B5EE9",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/securego/gosec/v2.22.0/gosec_2.22.0_darwin_arm64.tar.gz",
+      "checksum": "41506AC52AA5F0C759C9F84B0BDB7E039D51C336BE15A9875ED1E4734BCEA1AC",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/securego/gosec/v2.22.0/gosec_2.22.0_linux_amd64.tar.gz",
+      "checksum": "38E596E1AD580666E5EFAA159FBAF63BD5873EA1E74BEACBDF785B025B52E1DB",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/securego/gosec/v2.22.0/gosec_2.22.0_linux_arm64.tar.gz",
+      "checksum": "23A369F9E61DE4A019CA8A61415BB652B132DADBAE1758514E03C7F0BF3ABA76",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/securego/gosec/v2.22.0/gosec_2.22.0_windows_amd64.tar.gz",
+      "checksum": "DB2B1C81D45C5308AE81C2BCF919F2F5B5E788CE726D658F5E497C34543854DD",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/securego/gosec/v2.22.0/gosec_2.22.0_windows_arm64.tar.gz",
+      "checksum": "9DED707C17895F6F4FDABA3E4D63CC204CBDE1973D439F5F7C1616C0DFA65948",
       "algorithm": "sha256"
     },
     {
@@ -1532,6 +1591,11 @@
       "algorithm": "sha256"
     },
     {
+      "id": "http/awscli.amazonaws.com/AWSCLIV2-2.22.26.pkg",
+      "checksum": "EA8E5EEBFF9FD88E50B0976DC5FB9FB4620659C39AA696728F3E8CA27D233758",
+      "algorithm": "sha256"
+    },
+    {
       "id": "http/awscli.amazonaws.com/awscli-exe-linux-aarch64-2.16.2.zip",
       "checksum": "888D4D0414CB67B0A2DD028BA58CDBEE29C4DA40775DD193C7586AA1EA641C82",
       "algorithm": "sha256"
@@ -1562,6 +1626,11 @@
       "algorithm": "sha256"
     },
     {
+      "id": "http/awscli.amazonaws.com/awscli-exe-linux-aarch64-2.22.26.zip",
+      "checksum": "FE06A316209538D6A76E5EC8E487C6E4C2F7EFE6A265D4ED18D498EBA9432278",
+      "algorithm": "sha256"
+    },
+    {
       "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.16.2.zip",
       "checksum": "03768D03F7563D47812F1DB12DC33C147E9ECD253445F72624EE61B2A05880E4",
       "algorithm": "sha256"
@@ -1589,6 +1658,36 @@
     {
       "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.22.12.zip",
       "checksum": "EE0F07EA419574C177A6D07A201BF89DC83EAC21BDDF486933A9973DE74B89B7",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.22.26.zip",
+      "checksum": "FB4F7F7F0C52EE0A2BBF109E6B88558A7F48A0E47CD9E39F73CD6714C5A9984F",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/storage.googleapis.com/skaffold/releases/v2.14.0/skaffold-darwin-amd64",
+      "checksum": "E27E2F2428224AB593818463B52703A1309FF939676850049AB55D2B0AED7998",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/storage.googleapis.com/skaffold/releases/v2.14.0/skaffold-darwin-arm64",
+      "checksum": "00B8555C0A88D97A03A90305E4D11F3DC813895FAC6C3EB0D582CE090A2B20EC",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/storage.googleapis.com/skaffold/releases/v2.14.0/skaffold-linux-amd64",
+      "checksum": "F4CE7A11FFB38EA6A5D3A655A4FBF2BDA0E2DB503B2DE61A73E9E6CC014AE06F",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/storage.googleapis.com/skaffold/releases/v2.14.0/skaffold-linux-arm64",
+      "checksum": "7D6BC3C9CDF365550EFA1CC19A37D81516404C8E95F66BD93F8B7C54AA6A95CC",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/storage.googleapis.com/skaffold/releases/v2.14.0/skaffold-windows-amd64.exe",
+      "checksum": "1C9223DC4FD1046BB33342E59CCFA0F5810512EE03D4B472ED90B0064AE454CA",
       "algorithm": "sha256"
     },
     {
