@@ -30,7 +30,7 @@ packages:
 - name: stern/stern@v1.31.0
 - name: aws/aws-cli@2.22.35
 - name: golang/tools/godoc@v0.28.0
-- name: fullstorydev/grpcurl@v1.9.2
+- name: fullstorydev/grpcurl@v1.9.3
 - name: kyoh86/richgo@v0.3.12
 - name: golang.org/x/tools/gopls@v0.16.2
 - name: golang/vuln/govulncheck@v1.1.3
