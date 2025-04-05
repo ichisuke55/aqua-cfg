@@ -831,6 +831,31 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/gohugoio/hugo/v0.145.0/hugo_0.145.0_darwin-universal.tar.gz",
+      "checksum": "0889B22DB96375B354A0CACC90EAA983110003B7CB0ADFFCF965A75B5FE555EF",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gohugoio/hugo/v0.145.0/hugo_0.145.0_linux-amd64.tar.gz",
+      "checksum": "5BE7B7D5026D01515685A8AAD1CA015133C0569688819F139AE9FB21E33FD9AA",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gohugoio/hugo/v0.145.0/hugo_0.145.0_linux-arm64.tar.gz",
+      "checksum": "545C473040FFBD7315E1E34A65E7713D8E225897769B3728B1A43E1B9F0C993A",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gohugoio/hugo/v0.145.0/hugo_0.145.0_windows-amd64.zip",
+      "checksum": "8DF1AEFB7BFC7EBFA68113CA77549C6EBB730E83139AD6594C9F751E0A1512F9",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gohugoio/hugo/v0.145.0/hugo_0.145.0_windows-arm64.zip",
+      "checksum": "F59757D7EFECDA4FC467A8B26EF21550A7DC4716E102F81CA1E29E2DF9E2EFBF",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/golang/mock/v1.6.0/mock_1.6.0_darwin_amd64.tar.gz",
       "checksum": "938649DB27055EC85BEDE32CCB95FF82F82AF3C90A084EE52687A92066BCCA92",
       "algorithm": "sha256"
@@ -1461,6 +1486,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/suzuki-shunsuke/pinact/v3.0.2/pinact_darwin_amd64.tar.gz",
+      "checksum": "8443A308D131BEE61D1E332FC36B8523C5B552DCDFE69488A3C83B6153E436C9",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/suzuki-shunsuke/pinact/v3.0.2/pinact_darwin_arm64.tar.gz",
+      "checksum": "018542125F9A63ACC46693C2C5BA3318B15706A31B8864A6CF597CDD4BBA68E3",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/suzuki-shunsuke/pinact/v3.0.2/pinact_linux_amd64.tar.gz",
+      "checksum": "0952C115A50C9DBAB231F5ADEB52BD86887F58EFD4270F76BCCAECE57F60DA9B",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/suzuki-shunsuke/pinact/v3.0.2/pinact_linux_arm64.tar.gz",
+      "checksum": "892C8F8ECC0E449437ABB539FB33E269D616E60CE51C736688F7DB298E00405E",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/suzuki-shunsuke/pinact/v3.0.2/pinact_windows_amd64.zip",
+      "checksum": "4F028DF979C4D5D6F1F8A2F2353B4AB8FFF9A03FB94FE973EF90326CAB30045E",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/suzuki-shunsuke/pinact/v3.0.2/pinact_windows_arm64.zip",
+      "checksum": "7A8E1FCCA309742BE5AE3CC79C34AF22D58AC213BEFE722F9EA0DB5C671CCDC9",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/swaggo/swag/v1.16.3/swag_1.16.3_Darwin_arm64.tar.gz",
       "checksum": "D0FAC90453FEDCEFE04CC27882A331B18307FF43169EACCB5F3C87B6F03BE638",
       "algorithm": "sha256"
@@ -1596,6 +1651,11 @@
       "algorithm": "sha256"
     },
     {
+      "id": "http/awscli.amazonaws.com/AWSCLIV2-2.22.35.pkg",
+      "checksum": "878A047CCB7CBCCC0B31737A2E2EB6C07D8C0C5D436581F6500BB56BD224ACCA",
+      "algorithm": "sha256"
+    },
+    {
       "id": "http/awscli.amazonaws.com/awscli-exe-linux-aarch64-2.16.2.zip",
       "checksum": "888D4D0414CB67B0A2DD028BA58CDBEE29C4DA40775DD193C7586AA1EA641C82",
       "algorithm": "sha256"
@@ -1631,6 +1691,11 @@
       "algorithm": "sha256"
     },
     {
+      "id": "http/awscli.amazonaws.com/awscli-exe-linux-aarch64-2.22.35.zip",
+      "checksum": "EB78D271AA19073F17037C3E9C547F28F96BF17C7343D32756608269C1FFB486",
+      "algorithm": "sha256"
+    },
+    {
       "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.16.2.zip",
       "checksum": "03768D03F7563D47812F1DB12DC33C147E9ECD253445F72624EE61B2A05880E4",
       "algorithm": "sha256"
@@ -1663,6 +1728,11 @@
     {
       "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.22.26.zip",
       "checksum": "FB4F7F7F0C52EE0A2BBF109E6B88558A7F48A0E47CD9E39F73CD6714C5A9984F",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.22.35.zip",
+      "checksum": "8119CCF67DE875F39D386ABEA986738FA710BE57E20D4DF66FA99C7F7FD09997",
       "algorithm": "sha256"
     },
     {
