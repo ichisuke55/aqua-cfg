@@ -28,7 +28,7 @@ packages:
 - name: swaggo/swag@v1.16.4
 - name: google/wire@v0.6.0
 - name: stern/stern@v1.32.0
-- name: aws/aws-cli@2.25.11
+- name: aws/aws-cli@2.25.14
 - name: golang/tools/godoc@v0.31.0
 - name: fullstorydev/grpcurl@v1.9.3
 - name: kyoh86/richgo@v0.3.12
