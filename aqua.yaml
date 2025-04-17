@@ -32,7 +32,7 @@ packages:
 - name: golang/tools/godoc@v0.31.0
 - name: fullstorydev/grpcurl@v1.9.3
 - name: kyoh86/richgo@v0.3.12
-- name: golang.org/x/tools/gopls@gopls/v0.18.1
+- name: golang.org/x/tools/gopls@v0.18.1
 - name: golang/vuln/govulncheck@v1.1.4
 - name: nektos/act@v0.2.76
 - name: uber-go/mock@v0.5.0
