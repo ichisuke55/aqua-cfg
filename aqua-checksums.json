@@ -1196,6 +1196,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/junegunn/fzf/v0.61.1/fzf-0.61.1-darwin_amd64.tar.gz",
+      "checksum": "1BFEAD33F9401D6DDF4D6128C5A5F55266209557FBC1D9FD41B0ABF78DF1752B",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/junegunn/fzf/v0.61.1/fzf-0.61.1-darwin_arm64.tar.gz",
+      "checksum": "ADDC2D9AF3281B09661223EA87887C69599D4CF7B7BC9219D7320DAADC8639A1",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/junegunn/fzf/v0.61.1/fzf-0.61.1-linux_amd64.tar.gz",
+      "checksum": "F728B94BBBF7008602581FC07EA00DE5DCCF55A2CB2BF9FD9A35F1071B3B9F6C",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/junegunn/fzf/v0.61.1/fzf-0.61.1-linux_arm64.tar.gz",
+      "checksum": "25F6295F718B572AC2FF7DE1FFA9E39E619F4F9587386D85BF5B647F0B98FD6B",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/junegunn/fzf/v0.61.1/fzf-0.61.1-windows_amd64.zip",
+      "checksum": "C757BAAEB1D55F5666970A559DDD3B39307BD4EE5598F872940E8CCCBACC5B6C",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/junegunn/fzf/v0.61.1/fzf-0.61.1-windows_arm64.zip",
+      "checksum": "520945AC04551316D1FBFEB8C62284BE68EA4549322063E93FE4A127F3591452",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/kyoh86/richgo/v0.3.12/richgo_0.3.12_darwin_amd64.tar.gz",
       "checksum": "C5976037976C74D9ED3753AA1B09CC395FE31CF1201E17F65CC58C2CDA91E759",
       "algorithm": "sha256"
@@ -1946,6 +1976,11 @@
       "algorithm": "sha256"
     },
     {
+      "id": "http/awscli.amazonaws.com/AWSCLIV2-2.25.14.pkg",
+      "checksum": "5E866DBB8BB1F6AA9107B49F0B165D7EEF86FA78B160125591D63C5B74B1A2DA",
+      "algorithm": "sha256"
+    },
+    {
       "id": "http/awscli.amazonaws.com/awscli-exe-linux-aarch64-2.16.2.zip",
       "checksum": "888D4D0414CB67B0A2DD028BA58CDBEE29C4DA40775DD193C7586AA1EA641C82",
       "algorithm": "sha256"
@@ -1991,6 +2026,11 @@
       "algorithm": "sha256"
     },
     {
+      "id": "http/awscli.amazonaws.com/awscli-exe-linux-aarch64-2.25.14.zip",
+      "checksum": "A1053BF11A78C16E39389F32EA8EE427CC935ACF6EEF9DC50191300D030AC965",
+      "algorithm": "sha256"
+    },
+    {
       "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.16.2.zip",
       "checksum": "03768D03F7563D47812F1DB12DC33C147E9ECD253445F72624EE61B2A05880E4",
       "algorithm": "sha256"
@@ -2033,6 +2073,11 @@
     {
       "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.25.11.zip",
       "checksum": "4245B2CCF79839E94A1755F7C602629345C1CAD8CC35EFB46105254243297B4A",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "http/awscli.amazonaws.com/awscli-exe-linux-x86_64-2.25.14.zip",
+      "checksum": "9145327C1E33E5DF50AD9A283FD1CB47E256F858C0A846017C11BC2EAB8E47F1",
       "algorithm": "sha256"
     },
     {
