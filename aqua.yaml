@@ -39,5 +39,5 @@ packages:
 - name: GoogleContainerTools/skaffold@v2.15.0
 - name: securego/gosec@v2.22.3
 - name: suzuki-shunsuke/pinact@v3.0.2
-- name: junegunn/fzf@v0.61.1
+- name: junegunn/fzf@v0.61.3
 - name: astral-sh/uv@0.6.17
