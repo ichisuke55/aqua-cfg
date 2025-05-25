@@ -1251,6 +1251,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/junegunn/fzf/v0.61.3/fzf-0.61.3-darwin_amd64.tar.gz",
+      "checksum": "9B4925091323F4F80DA542C135915590BE0DECBF5BEFED035B267F5864793E3D",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/junegunn/fzf/v0.61.3/fzf-0.61.3-darwin_arm64.tar.gz",
+      "checksum": "41A16BE1D20A941DF345AD3E6350967C28B7DFF2A7C3605A3190127299989F4E",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/junegunn/fzf/v0.61.3/fzf-0.61.3-linux_amd64.tar.gz",
+      "checksum": "6A4F4B211B6B8944C7320F66DB468D731888AA86B19D5B0CCDF28FA0D0E06E47",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/junegunn/fzf/v0.61.3/fzf-0.61.3-linux_arm64.tar.gz",
+      "checksum": "0A15108BBF20F563E620CB7527515B7DB6FCF6ECFEC2A2540A58585B9F02C3C6",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/junegunn/fzf/v0.61.3/fzf-0.61.3-windows_amd64.zip",
+      "checksum": "DC864AC6264073D194AB6A6C647271BF31F438ADE13EB7E473B86CD30BCEEA45",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/junegunn/fzf/v0.61.3/fzf-0.61.3-windows_arm64.zip",
+      "checksum": "7CF17B27419119C4A5E4C60381E157C0D351CC8C3F1A319A984AB907F723CFAC",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/kyoh86/richgo/v0.3.12/richgo_0.3.12_darwin_amd64.tar.gz",
       "checksum": "C5976037976C74D9ED3753AA1B09CC395FE31CF1201E17F65CC58C2CDA91E759",
       "algorithm": "sha256"
