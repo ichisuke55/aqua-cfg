@@ -1766,6 +1766,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/stackrox/kube-linter/v0.7.2/kube-linter-darwin",
+      "checksum": "B83FF55D856B08E28F4BB4DC9B8ABECA149FEAA2D0C232891D507022EAD98B40",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/stackrox/kube-linter/v0.7.2/kube-linter-darwin_arm64",
+      "checksum": "C5D1DF6A2F3B0371C3CED7BDBD79AA56AA09542A48532BFF019265F9D43458A7",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/stackrox/kube-linter/v0.7.2/kube-linter-linux",
+      "checksum": "8538C320027E431A7F3B12AD127FDCABECA0B9453CF71C6F810BC670803D5545",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/stackrox/kube-linter/v0.7.2/kube-linter-linux_arm64",
+      "checksum": "4C75CE9C2F780F969A43E05389C582895956058CCDB69DBD542994C3A3C327EB",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/stackrox/kube-linter/v0.7.2/kube-linter.exe",
+      "checksum": "5533BBF7816C9D12CDBBBD45CB0AD632072B3EAB92A94CA5891EAC3615BBF569",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/stackrox/kube-linter/v0.7.2/kube-linter_arm64.exe",
+      "checksum": "237B725A09CE1AAA665F0E89BD7D60184D2C34ACA829965AD2B05C24DAD16BE2",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/stern/stern/v1.30.0/stern_1.30.0_darwin_amd64.tar.gz",
       "checksum": "4EAF8F0D60924902A3DDA1AAEBB573A376137BB830F45703D7A0BD89E884494A",
       "algorithm": "sha256"
