@@ -34,7 +34,7 @@ packages:
 - name: kyoh86/richgo@v0.3.12
 - name: golang.org/x/tools/gopls@v0.18.1
 - name: golang/vuln/govulncheck@v1.1.4
-- name: nektos/act@v0.2.76
+- name: nektos/act@v0.2.78
 - name: uber-go/mock@v0.5.2
 - name: GoogleContainerTools/skaffold@v2.15.0
 - name: securego/gosec@v2.22.3
