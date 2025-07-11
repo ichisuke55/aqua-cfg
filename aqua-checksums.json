@@ -1196,6 +1196,31 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/jesseduffield/lazygit/v0.53.0/lazygit_0.53.0_Darwin_arm64.tar.gz",
+      "checksum": "801E070084F1295750BB3412CBFB04A27C430528FE6A862799FCF4ED6BA4A4EB",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/jesseduffield/lazygit/v0.53.0/lazygit_0.53.0_Darwin_x86_64.tar.gz",
+      "checksum": "126448D33883FA140747FE1CCA63BBD3757BF8D14C4AF44883FA50AEEA17CFE0",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/jesseduffield/lazygit/v0.53.0/lazygit_0.53.0_Linux_arm64.tar.gz",
+      "checksum": "3339C312918F20B98558523D614F51EA352485AC5E59596E98C74145CCA6F224",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/jesseduffield/lazygit/v0.53.0/lazygit_0.53.0_Linux_x86_64.tar.gz",
+      "checksum": "E379D9463B9BA68E2652DFBC4B9A1B677A7AFD000C021EC10AAEB04B3491A52D",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/jesseduffield/lazygit/v0.53.0/lazygit_0.53.0_Windows_x86_64.zip",
+      "checksum": "E525C179600A94FC1DCA1B52CA57A281AD25196FF0A2AEE55013E1FE2DAEC943",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/jqlang/jq/jq-1.7.1/jq-linux-amd64",
       "checksum": "5942C9B0934E510EE61EB3E30273F1B3FE2590DF93933A93D7C58B81D19C8FF5",
       "algorithm": "sha256"
@@ -1436,6 +1461,31 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/mikefarah/yq/v4.45.4/yq_darwin_amd64",
+      "checksum": "5580FF2C1FC80DD91F248B3E19AF2431F1C95767AD0949A60176601CA5140318",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/mikefarah/yq/v4.45.4/yq_darwin_arm64",
+      "checksum": "602DBBC116AF9EB8A91D2239D0EC286EB9C90B94E76676D5268AB6CA184719B6",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/mikefarah/yq/v4.45.4/yq_linux_amd64",
+      "checksum": "B96DE04645707E14A12F52C37E6266832E03C29E95B9B139CDDCAE7314466E69",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/mikefarah/yq/v4.45.4/yq_linux_arm64",
+      "checksum": "A02CC637409DB44A9F9CB55EA92C40019582BA88083C4D930A727EC4B59ED439",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/mikefarah/yq/v4.45.4/yq_windows_amd64.exe",
+      "checksum": "844DF159573A42606139FF60F2E66B791C4C06413E89473E2AF25E476459FB0E",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/nektos/act/v0.2.66/act_Darwin_arm64.tar.gz",
       "checksum": "E8798D6412AD3ADF30B4395140E1B353F812F22C1E9B07F975CA1E81F6CD9BF0",
       "algorithm": "sha256"
@@ -1583,6 +1633,36 @@
     {
       "id": "github_release/github.com/nektos/act/v0.2.76/act_Windows_x86_64.zip",
       "checksum": "0D5811991A938CC7F4B86C5AF7E5EA3EA37B2DAD61A016CF6B7001A6FBDB0B1D",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.78/act_Darwin_arm64.tar.gz",
+      "checksum": "15089974527360B886FA880BCB7F2E800316600F76D3EBD7DB1959C4E0F55519",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.78/act_Darwin_x86_64.tar.gz",
+      "checksum": "6C4BF4048C3F27BE039217E182AA8CDA93ADC8D066F1F5EC402D1D953ED01740",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.78/act_Linux_arm64.tar.gz",
+      "checksum": "1F1F114C1480CB4FB7987724AFBA36BCA637EFCE54591BC99F4881451F23BB64",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.78/act_Linux_x86_64.tar.gz",
+      "checksum": "7E90D7B1D61AA518E32F348D456FA690A06A5170AA59B18B8DA507E3029C9845",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.78/act_Windows_arm64.zip",
+      "checksum": "44898C959C16EEF1D954EFF842E642897FA06D9244FA52B713A393F383DA4E1F",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.78/act_Windows_x86_64.zip",
+      "checksum": "48F281989062C8AB8ACDCABF08665CA9C6BC08C1E03EDD0BD08CE0DF4FF98347",
       "algorithm": "sha256"
     },
     {
