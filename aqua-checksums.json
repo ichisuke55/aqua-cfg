@@ -1,6 +1,31 @@
 {
   "checksums": [
     {
+      "id": "github_release/github.com/aquasecurity/trivy/v0.64.1/trivy_0.64.1_Linux-64bit.tar.gz",
+      "checksum": "1A09D86667B3885A8783D1877C9ABC8061B2B4E9B403941B22CBD82F10D275A8",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/aquasecurity/trivy/v0.64.1/trivy_0.64.1_Linux-ARM64.tar.gz",
+      "checksum": "A57D4D48A90F8ED875B821FC3078BA5A8572F86E90ADFEA0995CEFD51D583BD7",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/aquasecurity/trivy/v0.64.1/trivy_0.64.1_macOS-64bit.tar.gz",
+      "checksum": "107A874B41C1F0A48849F859B756F500D8BE06F2D2B8956A046A97AE38088BF6",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/aquasecurity/trivy/v0.64.1/trivy_0.64.1_macOS-ARM64.tar.gz",
+      "checksum": "7489C69948CDA032ADC2862923222917CD025411ABC4BBA8517A8D581AED226C",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/aquasecurity/trivy/v0.64.1/trivy_0.64.1_windows-64bit.zip",
+      "checksum": "D03BCE6326FF75D041F2499E801357D3DA6B08A28BE085580D9B0BDF84971D12",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/astral-sh/uv/0.6.17/uv-aarch64-apple-darwin.tar.gz",
       "checksum": "E686C73B9314C77A36A6A4C9F94B07C001F0C9157C50C63C764941141C0D0088",
       "algorithm": "sha256"
@@ -1666,6 +1691,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/nektos/act/v0.2.79/act_Darwin_arm64.tar.gz",
+      "checksum": "053BC57FBD11FCE9BF67FEE60EE935C5FC55D94887CF8512E7DD3CEE5879496A",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.79/act_Darwin_x86_64.tar.gz",
+      "checksum": "807482CFA34ACA86C19704FDF4817B365ECE133F27DBB5AB736422B5D7C43318",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.79/act_Linux_arm64.tar.gz",
+      "checksum": "DD821E743DB046B9C59719AB19F0EFF239D4A0CF1649ECCB9A8AF97BE5D13E61",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.79/act_Linux_x86_64.tar.gz",
+      "checksum": "B4C14DF1A6E713A63E8E153534091A2E0D93A73538DA301BD3AAA3C1F2A6F571",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.79/act_Windows_arm64.zip",
+      "checksum": "2E14B5A9ACF1AFBC9E589D1A94E3EA2B55C511A96BE7EDCDA1A402D12399BB1D",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/nektos/act/v0.2.79/act_Windows_x86_64.zip",
+      "checksum": "C13C30A46C751E073485E9733628C7D4B5F9EBEBB59D2F7869D05A5EA75E4E54",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/rhysd/actionlint/v1.7.0/actionlint_1.7.0_darwin_amd64.tar.gz",
       "checksum": "138AFF674F31BD218030D4B00B3024BF0C721B75A7EC8E90B743763F81E3128E",
       "algorithm": "sha256"
@@ -1843,6 +1898,36 @@
     {
       "id": "github_release/github.com/securego/gosec/v2.22.3/gosec_2.22.3_windows_arm64.tar.gz",
       "checksum": "18D4CB836B3FEEDD206B83A1D7EF8FE19F9BEC28E5195166ACFC30F16838C913",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/securego/gosec/v2.22.5/gosec_2.22.5_darwin_amd64.tar.gz",
+      "checksum": "022B2EAB42B5B1D312A5D4A7B77725DA46AB50C79458FF14DF62CB4672564EF3",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/securego/gosec/v2.22.5/gosec_2.22.5_darwin_arm64.tar.gz",
+      "checksum": "73E465B4C5FA8F8BEDC4593CE13AB28F1D88575924D7C29A7D7067EAA4C2B0F7",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/securego/gosec/v2.22.5/gosec_2.22.5_linux_amd64.tar.gz",
+      "checksum": "4B2C79D71054D44D4B96408823DBE80C1A5AAC154CA0B3BC5E76DCE93C96A791",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/securego/gosec/v2.22.5/gosec_2.22.5_linux_arm64.tar.gz",
+      "checksum": "2789DA2F0FC65083F47B571A19E5C980C0E3A4F07980C7915B0B90449BD8CCBF",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/securego/gosec/v2.22.5/gosec_2.22.5_windows_amd64.tar.gz",
+      "checksum": "7833EF7A8D58474584A3441D364159736A63B080EC01FC00F6B3BFE667BAB1E2",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/securego/gosec/v2.22.5/gosec_2.22.5_windows_arm64.tar.gz",
+      "checksum": "F21447637539E559C55B51FC3E1B7DD395E30CBB15652E3F2DD173927C08F022",
       "algorithm": "sha256"
     },
     {
