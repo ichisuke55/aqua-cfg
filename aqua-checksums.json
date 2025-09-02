@@ -1221,6 +1221,36 @@
       "algorithm": "sha256"
     },
     {
+      "id": "github_release/github.com/gotestyourself/gotestsum/v1.12.3/gotestsum_1.12.3_darwin_amd64.tar.gz",
+      "checksum": "8407AF41DB2AB450DBF64671E1D5CF59A0A7E2AE5880B7DEA465D70EE5F72CC6",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gotestyourself/gotestsum/v1.12.3/gotestsum_1.12.3_darwin_arm64.tar.gz",
+      "checksum": "A2CDC441A1355C8CFE35F4DEAA0D6C8B73A9530F8C8D02E2C00FE4FAE7AA5C45",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gotestyourself/gotestsum/v1.12.3/gotestsum_1.12.3_linux_amd64.tar.gz",
+      "checksum": "DD644E817B509FA8E216887EC93FACDD85722D1B78F6A19149EE1BC9F59FCA64",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gotestyourself/gotestsum/v1.12.3/gotestsum_1.12.3_linux_arm64.tar.gz",
+      "checksum": "B698B00E63B3C7D5ADD9587AF360FD44AD83551FC1D9A0DDE332BC11014683C4",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gotestyourself/gotestsum/v1.12.3/gotestsum_1.12.3_windows_amd64.tar.gz",
+      "checksum": "E879BE4F9B0C2EB7FB34FD4A71C183FDE18DB67557C2E9013CCB8DA1F101DC12",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/gotestyourself/gotestsum/v1.12.3/gotestsum_1.12.3_windows_arm64.tar.gz",
+      "checksum": "CFA211ECE3817634B2168FBFCB6F5655BCDE0E725F04E832BF168A6350933DFC",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/jesseduffield/lazygit/v0.53.0/lazygit_0.53.0_Darwin_arm64.tar.gz",
       "checksum": "801E070084F1295750BB3412CBFB04A27C430528FE6A862799FCF4ED6BA4A4EB",
       "algorithm": "sha256"
