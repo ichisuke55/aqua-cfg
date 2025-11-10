@@ -37,7 +37,7 @@ packages:
 - name: nektos/act@v0.2.80
 - name: uber-go/mock@v0.5.2
 - name: GoogleContainerTools/skaffold@v2.15.0
-- name: securego/gosec@v2.22.7
+- name: securego/gosec@v2.22.10
 - name: suzuki-shunsuke/pinact@v3.0.5
 - name: junegunn/fzf@v0.61.3
 - name: astral-sh/uv@0.6.17
